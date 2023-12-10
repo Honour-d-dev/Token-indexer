@@ -1,4 +1,4 @@
-# Simple ERC-20 Indexer
+# Simple ERC-20 & NFT Tokens Indexer
 
 This is an skeleton app that uses the Alchemy SDK rigged to Alchemy's Enhanced APIs in order to display all of an address's ERC-20 tokens & NFT balances.
 
